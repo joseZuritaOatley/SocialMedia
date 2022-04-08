@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "Social Media for devs",
   "main": "server.js",
+
   "scripts": {
     "test": "node server",
-    "server":"nodemon server"
+    "server": "nodemon server"
   },
   "repository": {
     "type": "git",
